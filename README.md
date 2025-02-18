@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hi, I'm Tanvi Laad!  
+🚀 **Aspiring DevOps Engineer** | Cloud | Automation | Infrastructure as Code  
 
-<!--
-**tanvilaad/tanvilaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Passionate about **Docker, Linux, Kubernetes, AWS, and CI/CD**  
+🔹 Enthusiastic about **Cloud Computing & DevOps Best Practices**  
+🔹 Always learning and building cool projects!  
 
-Here are some ideas to get you started:
+🎓 **Education:**  
+- **PMB Gujarati Science College, Indore (2021–2024)** | **7.60 CGPA**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 **Beyond Tech:**  
+- Sports Enthusiast 🏀🏃 | Dance Lover 💃 | Team Player & Fast Learner  
+
+📫 **Let’s connect:** www.linkedin.com/in/tanvilaad198
+
